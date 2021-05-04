@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "503149134932",
+    "project_id": "fb21-d0966",
+    "storage_bucket": "fb21-d0966.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:503149134932:android:70527ab703fb7d8bd619c1",
+        "android_client_info": {
+          "package_name": "com.example.fb21"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "503149134932-qjmdk710iujr0c56uq0c52cv85fgnfoj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBJqj8lE24Lc6WTZo6ZJXCPGIN-BGiDyxc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "503149134932-qjmdk710iujr0c56uq0c52cv85fgnfoj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
